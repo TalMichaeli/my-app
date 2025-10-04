@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.10826e11.css",
-    "main.js": "/my-app/static/js/main.2f4157bf.js",
+    "main.js": "/my-app/static/js/main.7c2fd1d5.js",
     "static/js/453.117b0875.chunk.js": "/my-app/static/js/453.117b0875.chunk.js",
+    "static/media/logoLocksmit.png": "/my-app/static/media/logoLocksmit.6e714d45493b7b6d9845.png",
     "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-app/index.html",
     "main.10826e11.css.map": "/my-app/static/css/main.10826e11.css.map",
-    "main.2f4157bf.js.map": "/my-app/static/js/main.2f4157bf.js.map",
+    "main.7c2fd1d5.js.map": "/my-app/static/js/main.7c2fd1d5.js.map",
     "453.117b0875.chunk.js.map": "/my-app/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10826e11.css",
-    "static/js/main.2f4157bf.js"
+    "static/js/main.7c2fd1d5.js"
   ]
 }
