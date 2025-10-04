@@ -3,7 +3,7 @@
 import React from "react";
 import "./LandingPage.css";
 import WhatsAppIcon from "./WhatsAppIcon";
-import locksmith from './assets/locksmith.jpg';
+import logoLocksmit from './assets/logoLocksmit.png';
 import PhoneIcon from "./PhoneIcon";
 
 function LandingPage() {
@@ -12,7 +12,7 @@ function LandingPage() {
       {/* Header */}
    <header className="header">
   <img 
-    src="/logoLocksmit.png" 
+    src={logoLocksmit}
     alt="Yosy Locksmith Logo" 
     className="logo"
   />
