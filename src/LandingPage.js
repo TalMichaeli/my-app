@@ -63,7 +63,7 @@ function LandingPage() {
       {/* Contact */}
       <section className="contact">
         <h2>צור קשר</h2>
-        <p>טלפון📞: <a href="tel:0524781255">052-478-1255</a></p>
+        <p>טלפון📞: <a href="tel:0524781255" className="phone-link">052-478-1255</a></p>
         <p> yosib858@gmail.com:📧 מייל</p>
       </section>
 

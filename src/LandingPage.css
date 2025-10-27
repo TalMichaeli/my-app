@@ -106,7 +106,16 @@
   ;
 }
 
+.contact .phone-link {
+  color: #ffcc00; /* Change this to any color you want */
+  font-weight: bold;
+  text-decoration: none; /* removes underline */
+}
 
+.contact .phone-link:hover {
+  color: #fff; /* hover color */
+  text-decoration: underline;
+}
 .footer {
   margin-top: 40px;
   font-size: 14px;
